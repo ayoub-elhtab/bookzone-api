@@ -1,0 +1,12 @@
+# Build artifacts
+/target/
+
+# IDE files
+/.vscode/
+/.settings/
+/.classpath
+/.project
+
+# Maven wrapper
+/.mvn/
+
